@@ -1,3 +1,8 @@
+# PR task-02 updates:
+- Link to S3 bucket/website (should be 403 Access Denied error): https://deploywebappstack-deploymentfrontendbucket67ceb713-vsoshruukjbx.s3.amazonaws.com/index.html
+- Link to CloudFront website: d82jd9179a0q5.cloudfront.net
+- build app, deploy, invalidate cloudfront. Run command from project root: npm run build:deploy
+
 # React-shop-cloudfront
 
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
